@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "iN0OXoMoWIrB8RmAhi7APY8LdGTDt9jr3nBwe+w3p/Jb+6zk2bH4Od9b0RwIL7UKiFd+TZSrPf5Ugdmq6GbtGg==",
+  "success": true,
+  "projectFilePath": "/Users/holgerklus/dotnet Projects/BrokerArchitecture/Send/Send.csproj",
+  "expectedPackageFiles": [
+    "/Users/holgerklus/.nuget/packages/rabbitmq.client/6.8.1/rabbitmq.client.6.8.1.nupkg.sha512",
+    "/Users/holgerklus/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/Users/holgerklus/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

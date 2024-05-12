@@ -1,0 +1,17 @@
+/Users/holgerklus/dotnet Projects/BrokerArchitecture/Receive/bin/Debug/net8.0/Receive
+/Users/holgerklus/dotnet Projects/BrokerArchitecture/Receive/bin/Debug/net8.0/Receive.deps.json
+/Users/holgerklus/dotnet Projects/BrokerArchitecture/Receive/bin/Debug/net8.0/Receive.runtimeconfig.json
+/Users/holgerklus/dotnet Projects/BrokerArchitecture/Receive/bin/Debug/net8.0/Receive.dll
+/Users/holgerklus/dotnet Projects/BrokerArchitecture/Receive/bin/Debug/net8.0/Receive.pdb
+/Users/holgerklus/dotnet Projects/BrokerArchitecture/Receive/bin/Debug/net8.0/RabbitMQ.Client.dll
+/Users/holgerklus/dotnet Projects/BrokerArchitecture/Receive/obj/Debug/net8.0/Receive.csproj.AssemblyReference.cache
+/Users/holgerklus/dotnet Projects/BrokerArchitecture/Receive/obj/Debug/net8.0/Receive.GeneratedMSBuildEditorConfig.editorconfig
+/Users/holgerklus/dotnet Projects/BrokerArchitecture/Receive/obj/Debug/net8.0/Receive.AssemblyInfoInputs.cache
+/Users/holgerklus/dotnet Projects/BrokerArchitecture/Receive/obj/Debug/net8.0/Receive.AssemblyInfo.cs
+/Users/holgerklus/dotnet Projects/BrokerArchitecture/Receive/obj/Debug/net8.0/Receive.csproj.CoreCompileInputs.cache
+/Users/holgerklus/dotnet Projects/BrokerArchitecture/Receive/obj/Debug/net8.0/Receive.csproj.Up2Date
+/Users/holgerklus/dotnet Projects/BrokerArchitecture/Receive/obj/Debug/net8.0/Receive.dll
+/Users/holgerklus/dotnet Projects/BrokerArchitecture/Receive/obj/Debug/net8.0/refint/Receive.dll
+/Users/holgerklus/dotnet Projects/BrokerArchitecture/Receive/obj/Debug/net8.0/Receive.pdb
+/Users/holgerklus/dotnet Projects/BrokerArchitecture/Receive/obj/Debug/net8.0/Receive.genruntimeconfig.cache
+/Users/holgerklus/dotnet Projects/BrokerArchitecture/Receive/obj/Debug/net8.0/ref/Receive.dll

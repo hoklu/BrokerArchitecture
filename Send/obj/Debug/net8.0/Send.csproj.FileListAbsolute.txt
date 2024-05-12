@@ -1,0 +1,17 @@
+/Users/holgerklus/dotnet Projects/BrokerArchitecture/Send/bin/Debug/net8.0/Send
+/Users/holgerklus/dotnet Projects/BrokerArchitecture/Send/bin/Debug/net8.0/Send.deps.json
+/Users/holgerklus/dotnet Projects/BrokerArchitecture/Send/bin/Debug/net8.0/Send.runtimeconfig.json
+/Users/holgerklus/dotnet Projects/BrokerArchitecture/Send/bin/Debug/net8.0/Send.dll
+/Users/holgerklus/dotnet Projects/BrokerArchitecture/Send/bin/Debug/net8.0/Send.pdb
+/Users/holgerklus/dotnet Projects/BrokerArchitecture/Send/bin/Debug/net8.0/RabbitMQ.Client.dll
+/Users/holgerklus/dotnet Projects/BrokerArchitecture/Send/obj/Debug/net8.0/Send.csproj.AssemblyReference.cache
+/Users/holgerklus/dotnet Projects/BrokerArchitecture/Send/obj/Debug/net8.0/Send.GeneratedMSBuildEditorConfig.editorconfig
+/Users/holgerklus/dotnet Projects/BrokerArchitecture/Send/obj/Debug/net8.0/Send.AssemblyInfoInputs.cache
+/Users/holgerklus/dotnet Projects/BrokerArchitecture/Send/obj/Debug/net8.0/Send.AssemblyInfo.cs
+/Users/holgerklus/dotnet Projects/BrokerArchitecture/Send/obj/Debug/net8.0/Send.csproj.CoreCompileInputs.cache
+/Users/holgerklus/dotnet Projects/BrokerArchitecture/Send/obj/Debug/net8.0/Send.csproj.Up2Date
+/Users/holgerklus/dotnet Projects/BrokerArchitecture/Send/obj/Debug/net8.0/Send.dll
+/Users/holgerklus/dotnet Projects/BrokerArchitecture/Send/obj/Debug/net8.0/refint/Send.dll
+/Users/holgerklus/dotnet Projects/BrokerArchitecture/Send/obj/Debug/net8.0/Send.pdb
+/Users/holgerklus/dotnet Projects/BrokerArchitecture/Send/obj/Debug/net8.0/Send.genruntimeconfig.cache
+/Users/holgerklus/dotnet Projects/BrokerArchitecture/Send/obj/Debug/net8.0/ref/Send.dll
